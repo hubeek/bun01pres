@@ -4,7 +4,7 @@
     "types": ["bun-types"],
 
     // enable latest features
-    "lib": ["esnext"],
+    "lib": ["esnext","DOM"],
     "module": "esnext",
     "target": "esnext",
 
